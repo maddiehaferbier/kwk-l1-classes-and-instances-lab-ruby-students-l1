@@ -7,7 +7,7 @@ def name
   @this_persons_name
   end 
 end
-adele = Person.new 
+adele_goldberg = Person.new 
 adele_goldberg.name = "adele_goldberg"
 
 puts adele_goldberg.name 
