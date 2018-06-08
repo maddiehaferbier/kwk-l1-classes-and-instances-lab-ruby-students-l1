@@ -13,7 +13,7 @@ adele_goldberg.name = "adele_goldberg"
 puts adele_goldberg.name 
 
 alan_kay = Person.new 
-alan_kay.name = "alan"
+alan_kay.name = "alan_kay"
 
 puts alan_kay.name 
 
