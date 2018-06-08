@@ -7,13 +7,13 @@ class Person
   @this_persons_names_name
   end 
 end
-adele_goldberg = Person.new 
-adele_goldberg.name = "adele_goldberg"
+adele = Person.new 
+adele.name = "adele"
 
-puts adele_goldberg.name 
+puts adele.name 
 
-alan_kay = Person.new 
-alan_kay.name = "alan_kay"
+alan = Person.new 
+alan.name = "alan"
 
-puts alan_kay.name 
+puts alan.name 
 
