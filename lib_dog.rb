@@ -1,6 +1,6 @@
 class Dog 
 
-  def name= (Dog_name)
+  def name= (lib_dog)
 dog_name = Ido
 dog_name = Snoopy
 dog_name = Lassie
