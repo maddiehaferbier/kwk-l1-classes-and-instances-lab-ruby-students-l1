@@ -1,8 +1,8 @@
 class Dog 
   def name = (dog_name)}
-dog_name_1 => fido
-dog_name_2 => snoopy
-dog_name_3 => lassie
+dog_name = Ido
+dog_name = Snoopy
+dog_name = Lassie
 }
 
 end 
