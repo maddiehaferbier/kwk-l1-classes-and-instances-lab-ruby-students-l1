@@ -17,5 +17,4 @@ alan_kay.name = "alan"
 
 puts alan_kay.name 
 
-end
 
