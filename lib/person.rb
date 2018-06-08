@@ -3,17 +3,19 @@ class Person
   @this_persons_name=(person_name)
   end
 
-  def name 
-  @this_persons_names_name
+def name 
+  @this_persons_name
   end 
 end
 adele = Person.new 
-adele.name = "adele"
+adele_goldberg.name = "adele_goldberg"
 
-puts adele.name 
+puts adele_goldberg.name 
 
-alan = Person.new 
-alan.name = "alan"
+alan_kay = Person.new 
+alan_kay.name = "alan"
 
-puts alan.name 
+puts alan_kay.name 
+
+end
 
